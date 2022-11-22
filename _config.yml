@@ -6,8 +6,8 @@ ios_app_id                                : 1221007158                          
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+playstore_link                            : mailto:assobluebuddy@gmail.com                                       # Enter Google Play Store URL.
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -36,47 +36,47 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Food Journal
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    description                           : Display you food intakes in realtime through the day to get back to your rythm, and to an healthy and balanced alimentation
+    fontawesome_icon_name                 : book
     
   - title                                 : Goals
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    description                           : Get better by creating goals in various domains like social, alimentation or daily life
+    fontawesome_icon_name                 : trophy
 
-  - title                                 : Toolbox
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Resources
+    description                           : Get help in difficult situations, accurate medical and nutritional data, efficient strategies and resources to get better
+    fontawesome_icon_name                 : wrench
 
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_color                              : "#278fb7"
+topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_image                               : assets/legumes.jpg                   
+cover_overlay_color                       : "#ffffff"
+cover_overlay_transparency                : 0.7
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#eeeeee"
 
-link_color                                : "#1d63ea"
+link_color                                : "#278fb7"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#278fb7"
+app_price_color                           : "#278fb7"
+app_description_color                     : "#278fb7"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#278fb7"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#666666"
+social_icons_foreground_color             : "#278fb7"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#278fb7"
 
 
 

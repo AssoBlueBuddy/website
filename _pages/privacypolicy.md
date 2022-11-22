@@ -3,58 +3,49 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
+# PRIVACY POLICY
+Here, in the BLUE BUDDY team, we are commited to protect your privacy rights.
 
-**Last updated**  
-August 1 2019
+The aim of this policy is to insure privacy rights for the user or visitor of the BLUE BUDDY application.
+The application and the website are edited by the BLUE BUDDY association domiciliated at the "7bis rue de la Rosière, 75015 Paris, France.
+The association is supervised by Philip GORWOOD.
+You can contact us by email at [assobluebuddy@gmail.com](mailto:assobluebuddy@gmail.com) 
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+## 1. Commitment on privacy protection
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+The term "Private Data" designate the informations that identifies you like your name, birthdate, email address or postal address.
+As part of the use of those data, we are commited to respect the current regulations in place regarding the protection of private data.
+The following chapters are exposing the modalities of private data  collection.
 
-<br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 2. Use of private Data
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+BLUE BUDDY commits to not collect, use or disclose, with full knowledge of the facts, any nominative personal data.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## 3. Anonymous data
 
-<br>
+Every data collected by the application BLUE BUDDY is done in an anonymous manner, wether it's the pages you visit, or the actions you perform.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+BLUE BUDDY uses anonymous informations to improve the app and website content and to gather global statistics on their users for internal use only.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## 4. Third party services
 
-<br>
+When you use the BLUE BUDDY app, we can reccord anonymous data and informations about your use of the application, like the length and time of your sessions, your unique device identifier, your hardware characteristics (like the MAC address or Operating Systyem version), locale settings (geographical region or spoken language) or geolocalization data.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+Those data are helping us to solve issues and to understand usage trends as well as improving and optimizing you user experience. They can be used by third party service providers, like Fabric or Amplitude, then can collect and analyse anonymous data. Those services can use cookies, APIs and software libraries to allow them to collect and analyse anonymous data on behalf of BLUE BUDDY.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+The privacy policies of our service provider can include suplementary clauses or informations about their policies regarding data use and collection, as well as their tracking technologies. 
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## 5. Diffusion to uninterested recipients
+BLUE BUDDY does not accept distribution to uninterested recipients. Such dissemination corresponds to the sending of unsolicited e-mails, generally of a commercial nature, in large numbers and repeatedly to persons with whom the sender has not previously had contact or who have refused to receive such messages.
 
-<br>
+## 6. General Mesures
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+BLUE BUDDY reserve the right to modify or delete at any time and for any reason the dispositions of this policy. By using the app, the user implictly accepts those kind of modifications. We consequently advise the user to regulary read this charter to aknowledge those new conditions.
 
-<br>
+## 7. Contact chez BLUE BUDDY
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+If you have any questions or complaints about BLUE BUDDY's privacy practices, or if you would like to make recommendations or comments to improve the quality of our privacy policy, please do not hesitate to contact us by e-mail at [assobluebuddy@gmail.com](mailto:assobluebuddy@gmail.com).
+
+This Privacy Policy is applicable as of October 24, 2018 and will be updated regularly. We are constantly seeking to improve the tools available to you to process the information we provide to you.

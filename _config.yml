@@ -53,9 +53,9 @@ topbar_color                              : "#278fb7"
 topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/legumes.jpg                   
-cover_overlay_color                       : "#ffffff"
-cover_overlay_transparency                : 0.7
+cover_image                               : assets/website_background.png                 
+cover_overlay_color                       : "#278FB7"
+cover_overlay_transparency                : 0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -63,9 +63,9 @@ body_background_color                     : "#eeeeee"
 
 link_color                                : "#278fb7"
 
-app_title_color                           : "#278fb7"
-app_price_color                           : "#278fb7"
-app_description_color                     : "#278fb7"
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
